@@ -1,0 +1,12 @@
+Nome arquivo Java: .java
+Ter JDK e JRE no computador.
+Arquivo: .class
+
+Pré-requisitos:
+- JDK instalado
+- IDE da escolha
+- Diretório do projeto definido (github)
+
+Anatomia da classe
+
+Ver link: https://glysns.gitbook.io/java-basico/
