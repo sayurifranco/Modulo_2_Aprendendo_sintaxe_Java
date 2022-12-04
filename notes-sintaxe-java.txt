@@ -9,4 +9,19 @@ Pré-requisitos:
 
 Anatomia da classe
 
-Ver link: https://glysns.gitbook.io/java-basico/
+Ver links: https://glysns.gitbook.io/java-basico/
+
+https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes
+
+Sintaxe de declaração de uma nova classe:
+
+public class MinhaClasse {
+
+ // SEU CÓDIGO AQUI
+
+public static void main (String [] args)
+	 System.out.print ("Olá turma, sejam bem-vidos");
+}
+
+}
+
