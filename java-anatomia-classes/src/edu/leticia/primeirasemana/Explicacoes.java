@@ -1,3 +1,4 @@
+package edu.leticia.primeirasemana;
 public class Explicacoes {
 
 public static void main (String [] args) {
